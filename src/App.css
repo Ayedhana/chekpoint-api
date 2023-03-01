@@ -1,0 +1,18 @@
+.data{
+  width: 800px;
+margin-top: 50px;
+margin-left: 100px;
+margin-right: 100px;
+margin-bottom: 100px;
+background-color: rgb(223, 227, 233);
+display: flex;
+flex-direction: column;
+justify-content:space-around;
+}
+td{
+  width: 200px;
+  text-align: center;
+}
+tr{
+  height: 40px;
+}
